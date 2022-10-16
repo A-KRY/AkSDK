@@ -1,0 +1,2 @@
+G:\Visual Studio\source\repos\AkSDK\x64\Debug\AkSDK.vcxproj.AssemblyReference.cache
+G:\Visual Studio\source\repos\AkSDK\x64\Debug\AkSDK.dll

@@ -1,0 +1,26 @@
+﻿  pch.cpp
+G:\Program Files (x86)\Audiokinetic\Wwise 2021.1.10.7883\SDK\include\AK\SoundEngine\Common\AkTypes.h(612,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\Program Files (x86)\Audiokinetic\Wwise 2021.1.10.7883\SDK\include\AK\SoundEngine\Common\AkSoundEngine.h(3276,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  AkDefaultIOHookBlocking.cpp
+G:\Program Files (x86)\Audiokinetic\Wwise 2021.1.10.7883\SDK\include\AK\SoundEngine\Common\AkTypes.h(612,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  AkDefaultLowLevelIODispatcher.cpp
+G:\Program Files (x86)\Audiokinetic\Wwise 2021.1.10.7883\SDK\include\AK\SoundEngine\Common\AkTypes.h(612,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  AkFileLocationBase.cpp
+G:\Program Files (x86)\Audiokinetic\Wwise 2021.1.10.7883\SDK\include\AK\SoundEngine\Common\AkTypes.h(612,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  AkFilePackage.cpp
+G:\Program Files (x86)\Audiokinetic\Wwise 2021.1.10.7883\SDK\include\AK\SoundEngine\Common\AkTypes.h(612,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\Program Files (x86)\Audiokinetic\Wwise 2021.1.10.7883\SDK\include\AK\SoundEngine\Common\AkSoundEngine.h(3276,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  AkFilePackageLUT.cpp
+G:\Program Files (x86)\Audiokinetic\Wwise 2021.1.10.7883\SDK\include\AK\SoundEngine\Common\AkTypes.h(612,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\Program Files (x86)\Audiokinetic\Wwise 2021.1.10.7883\SDK\include\AK\SoundEngine\Common\AkSoundEngine.h(3276,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  AkMultipleFileLocation.cpp
+G:\Program Files (x86)\Audiokinetic\Wwise 2021.1.10.7883\SDK\include\AK\SoundEngine\Common\AkTypes.h(612,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  dllmain.cpp
+G:\Program Files (x86)\Audiokinetic\Wwise 2021.1.10.7883\SDK\include\AK\SoundEngine\Common\AkTypes.h(612,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+G:\Program Files (x86)\Audiokinetic\Wwise 2021.1.10.7883\SDK\include\AK\SoundEngine\Common\AkSoundEngine.h(3276,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  正在生成代码...
+G:\Visual Studio\source\repos\AkSDK\dllmain.cpp : warning C4747: 调用托管“DllMain”: 托管代码可能未运行在加载程序锁下，包括 DLL 入口点和从 DLL 入口点访问到的调用
+  AkDefaultIOHookBlocking.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+    正在创建库 G:\Visual Studio\source\repos\AkSDK\x64\Debug\AkSDK.lib 和对象 G:\Visual Studio\source\repos\AkSDK\x64\Debug\AkSDK.exp
+  AkSDK.vcxproj -> G:\Visual Studio\source\repos\AkSDK\x64\Debug\AkSDK.dll
